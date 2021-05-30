@@ -1,0 +1,138 @@
+{
+  "2021-01-01": {
+    "name": "Tết Dương lịch",
+    "priority": "high"
+  },
+  "2021-02-14": {
+    "name": "Lễ tình nhân (Valentine)",
+    "priority": "low"
+  },
+  "2021-02-27": {
+    "name": "Ngày thầy thuốc Việt Nam",
+    "priority": "low"
+  },
+  "2021-03-08": {
+    "name": "Ngày Quốc tế Phụ nữ",
+    "priority": "high"
+  },
+  "2021-03-20": {
+    "name": "Ngày Quốc tế Hạnh phúc",
+    "priority": "low"
+  },
+  "2021-03-26": {
+    "name": "Ngày thành lập Đoàn TNCS Hồ Chí Minh",
+    "priority": "low"
+  },
+  "2021-04-01": {
+    "name": "Ngày Cá tháng Tư",
+    "priority": "low"
+  },
+  "2021-04-30": {
+    "name": "Ngày giải phóng miền Nam",
+    "priority": "high"
+  },
+  "2021-05-01": {
+    "name": "Ngày Quốc tế Lao động",
+    "priority": "high"
+  },
+  "2021-05-07": {
+    "name": "Ngày chiến thắng Điện Biên Phủ",
+    "priority": "high"
+  },
+  "2021-05-13": {
+    "name": "Ngày của mẹ",
+    "priority": "low"
+  },
+  "2021-05-19": {
+    "name": "Ngày sinh chủ tịch Hồ Chí Minh",
+    "priority": "high"
+  },
+  "2021-06-17": {
+    "name": "Ngày của cha",
+    "priority": "low"
+  },
+  "2021-06-21": {
+    "name": "Ngày báo chí Việt Nam",
+    "priority": "low"
+  },
+  "2021-06-28": {
+    "name": "Ngày gia đình Việt Nam",
+    "priority": "low"
+  },
+  "2021-07-11": {
+    "name": "Ngày dân số thế giới",
+    "priority": "low"
+  },
+  "2021-07-27": {
+    "name": "Ngày Thương binh liệt sĩ",
+    "priority": "high"
+  },
+  "2021-07-28": {
+    "name": "Ngày thành lập công đoàn Việt Nam",
+    "priority": "low"
+  },
+  "2021-08-19": {
+    "name": "Ngày tổng khởi nghĩa",
+    "priority": "low"
+  },
+  "2021-09-02": {
+    "name": "Ngày Quốc Khánh",
+    "priority": "high"
+  },
+  "2021-09-10": {
+    "name": "Ngày thành lập Mặt trận Tổ quốc Việt Nam",
+    "priority": "low"
+  },
+  "2021-10-01": {
+    "name": "Ngày quốc tế người cao tuổi",
+    "priority": "low"
+  },
+  "2021-10-10": {
+    "name": "Ngày giải phóng thủ đô",
+    "priority": "low"
+  },
+  "2021-10-13": {
+    "name": "Ngày doanh nhân Việt Nam",
+    "priority": "low"
+  },
+  "2021-10-20": {
+    "name": "Ngày Phụ nữ Việt Nam",
+    "priority": "high"
+  },
+  "2021-10-31": {
+    "name": "Ngày Halloween",
+    "priority": "low"
+  },
+  "2021-11-09": {
+    "name": "Ngày pháp luật Việt Nam",
+    "priority": "low"
+  },
+  "2021-11-19": {
+    "name": "Ngày Quốc tế Nam giới",
+    "priority": "low"
+  },
+  "2021-11-20": {
+    "name": "Ngày Nhà giáo Việt Nam",
+    "priority": "high"
+  },
+  "2021-11-23": {
+    "name": "Ngày thành lập Hội chữ thập đỏ Việt Nam",
+    "priority": "low"
+  },
+  "2021-12-01": {
+    "name": "Ngày thế giới phòng chống AIDS",
+    "priority": "low"
+  },
+  "2021-12-19": {
+    "name": "Ngày toàn quốc kháng chiến",
+    "priority": "low"
+  },
+  "2021-12-22": {
+    "name": "Ngày thành lập quân đội nhân dân Việt Nam",
+    "priority": "low"
+  },
+  "2021-12-24": {
+    "name": "Ngày lễ Giáng sinh",
+    "priority": "low"
+  }
+}
